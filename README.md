@@ -1,2 +1,4 @@
 # hacker-rank
-[Hacker rank]=(https://www.hackerrank.com/jonathanbrenman) exercises resolved by me
+## exercises resolved by me
+
+https://www.hackerrank.com/jonathanbrenman
